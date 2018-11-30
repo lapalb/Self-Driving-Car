@@ -15,5 +15,7 @@ The states of the environment are encoded by a vector which is passed as input i
 **Here is the link of analysis :**
 [Click Here] (https://goo.gl/STfu5b)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=EaY5QiZwSP4" target="_blank"><img src="http://img.youtube.com/vi/EaY5QiZwSP4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EaY5QiZwSP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
