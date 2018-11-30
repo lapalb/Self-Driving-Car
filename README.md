@@ -1,4 +1,4 @@
-#Self Driving Car
+# Self Driving Car
 
 
 > People are so bad at driving car, that Computer don't have to be that good.
@@ -7,7 +7,7 @@ We built our own self-driving car. This is a modelled version of a car (so it wo
 
 It will have to figure everything out on its own. To achieve this, we will be using Deep Q-Learning. Deep Q-Learning is the result of combining Q-Learning with an Artificial Neural Network.
 
-###About Deep Q-learning
+### About Deep Q-learning
 The states of the environment are encoded by a vector which is passed as input into the Neural Network. Then the Neural Network will try to predict which action should be played, by returning as outputs a Q-value for each of the possible actions. Eventually, the best action to play is chosen by either taking the one that has the highest Q-value, or by overlaying a Softmax function.
 
 **Here is the link of analysis :**
